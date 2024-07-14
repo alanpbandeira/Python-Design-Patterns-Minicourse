@@ -83,3 +83,13 @@ echo -e ""
 11. Cloud Patterns
 12. Microservices Pattern
 13. Circuit Breaker
+
+---
+
+# WGSAD 2024 SEMINAR
+
+```
+~~~bash
+echo -e ""
+~~~
+```
